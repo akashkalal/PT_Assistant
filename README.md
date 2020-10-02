@@ -1,4 +1,4 @@
-# PT_Assistant
+# PT_Assistant - This is Amezing
 to help people sign in on a PT website, pull torrents to their email automatically.
 
 这个程序目前可以在windows及mac osx环境下运行，可以做到以下功能
